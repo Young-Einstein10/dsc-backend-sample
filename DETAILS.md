@@ -52,7 +52,7 @@ Documentation for the Blog would be added here.
 **COMMENT REPLIES**
 
 - `POST /posts/:id/comment/:id/reply` - Reply to a Comment
-- `PATCH /posts/:id/comment/:id/reply/:id` - Edit a reply to a Comment
+- `PATCH /posts/:id/comment/:id/reply/:id` Edit a reply to a Comment
 - `GET /posts/:id/comment/:id/reply` - Get All Replies to a Comment in a Posts
 - `DELETE /posts/:id/comment/:id/reply/:id` - Delete a Reply
 
