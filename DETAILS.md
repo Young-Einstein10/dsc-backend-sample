@@ -47,7 +47,7 @@ Documentation for the Blog would be added here.
 - `POST /posts/:id/comment` - Make a Comment for a Post
 - `GET /posts/:id/comments` - Get All Comments for Posts
 - `PATCH /posts/:id/comment/:id` - Edit a Comment
--`DELETE /posts/:id/comment/:id` - Delete a Comment
+- `DELETE /posts/:id/comment/:id` - Delete a Comment
 
 **COMMENT REPLIES**
 
